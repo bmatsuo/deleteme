@@ -1,9 +1,9 @@
-<t:test xmlns:t="https://bmatsuo.github.io/deleteme/v0.1.3/test1"
-        xmlns:t2="https://bmatsuo.github.io/deleteme/v0.1.3/test2"
+<t:test xmlns:t="http://bmatsuo.github.io/deleteme/v0.1.3/test1"
+        xmlns:t2="http://bmatsuo.github.io/deleteme/v0.1.3/test2"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="
-            https://bmatsuo.github.io/deleteme/v0.1.3/test1 https://bmatsuo.github.io/deleteme/v0.1.3/test1.xsd
-            https://bmatsuo.github.io/deleteme/v0.1.3/test2 https://bmatsuo.github.io/deleteme/v0.1.3/test2.xsd
+            http://bmatsuo.github.io/deleteme/v0.1.3/test1 http://bmatsuo.github.io/deleteme/v0.1.3/test1.xsd
+            http://bmatsuo.github.io/deleteme/v0.1.3/test2 http://bmatsuo.github.io/deleteme/v0.1.3/test2.xsd
         ">
     <t2:boom/>
 </t:test>
