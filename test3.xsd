@@ -1,10 +1,11 @@
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
-           xmlns:test2="http://bmatsuo.github.io/deleteme-test2"
-           targetNamespace="http://bmatsuo.github.io/deleteme-test1"
-           xmlns="http://bmatsuo.github.io/deleteme-test1">
+           xmlns:test2="https://bmatsuo.github.io/deleteme-test2"
+           targetNamespace="https://bmatsuo.github.io/deleteme-test3"
+           xmlns="https://bmatsuo.github.io/deleteme-test3"
+           elementFormDefault="qualified">
 
-    <xs:import targetNamespace="http://bmatsuo.github.io/deleteme-test2"
-               schemaLocation="http://bmatsuo.github.io/deleteme/test2.xsd"/>
+    <xs:import namespace="https://bmatsuo.github.io/deleteme-test2"
+               schemaLocation="https://bmatsuo.github.io/deleteme/test2.xsd"/>
 
     <xs:element name="test" type="test2:TEST"/>
 </xs:schema>

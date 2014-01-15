@@ -1,5 +1,5 @@
-<test xmlns="http://bmatsuo.github.io/deleteme-test3"
+<test xmlns="https://bmatsuo.github.io/deleteme-test3"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://bmatsuo.github.io/deleteme-test3.xsd">
+      xsi:schemaLocation="https://bmatsuo.github.io/deleteme-test3 test3.xsd">
     <boom/>
 </test>
