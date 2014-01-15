@@ -1,7 +1,0 @@
-<t:test xmlns:t="https://bmatsuo.github.io/deleteme-test1"
-        xmlns:t2="https://bmatsuo.github.io/deleteme-test2"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="https://bmatsuo.github.io/deleteme-test1 test1.xsd
-                            https://bmatsuo.github.io/deleteme-test2 test2.xsd">
-    <t2:boom/>
-</t:test>
